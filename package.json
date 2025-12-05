@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Stranger thing backed zero",
+  "keywords": [
+    "nodejs"
+  ],
+  "homepage": "https://github.com/DevLam-206/demo-push-myproject#readme",
+  "bugs": {
+    "url": "https://github.com/DevLam-206/demo-push-myproject/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLam-206/demo-push-myproject.git"
+  },
+  "license": "ISC",
+  "author": "DevLam",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
